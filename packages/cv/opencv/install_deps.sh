@@ -27,6 +27,8 @@ apt-get install -y --no-install-recommends \
         libcanberra-gtk3-module \
         libeigen3-dev \
         libglew-dev \
+        libgl-dev \
+        libglu1-mesa-dev \
         libgstreamer-plugins-base1.0-dev \
         libgstreamer-plugins-good1.0-dev \
         libgstreamer1.0-dev \
